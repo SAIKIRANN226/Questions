@@ -1,0 +1,7 @@
+- Overview of the VPC setup 
+- Create resources or subnets in min two zones for high availability
+- Why NAT Gateway is used ?
+- Where this NAT Gateway should be created ? and why ?
+- NAT should be created in two zones or in any one of the zone ?
+- Creating NAT Gateway is not enough we need to add routes to the private_subnets
+- 
